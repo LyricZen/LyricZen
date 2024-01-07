@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyricZen&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyricZen&show_icons=true&theme=default)
 
 </div>
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyricZen&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyricZen&layout=compact&theme=default)
 
 </div>
