@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div align="center" transform: "rotate(45deg)">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyricZen&show_icons=true&theme=ambient_gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyricZen&show_icons=true&bg_color=DEG,5FC3E4,E55D87)
 
 </div>
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyricZen&layout=compact&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyricZen&layout=compact&bg_color=DEG,5FC3E4,E55D87)
 
 </div>
 
