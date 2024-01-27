@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8&height=200&section=header&text=✨LyricZen%20Story&fontAlign=70%&fontAlignY=35&fontColor=FFFFFF&fontSize=30&rotate=13&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:E55D87,100:5FC3E4&height=200&section=header&text=✨LyricZen%20Story&fontAlign=70%&fontAlignY=35&fontColor=FFFFFF&fontSize=30&rotate=13&animation=twinkling)
 
 <!--
 **LyricZen/LyricZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8&height=200&section=footer&text=✨LyricZen%20Story&fontAlign=30%&fontAlignY=65&fontColor=FFFFFF&fontSize=30&rotate=13&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=0:5FC3E4,100:E55D87&height=200&section=footer&text=✨LyricZen%20Story&fontAlign=30%&fontAlignY=65&fontColor=FFFFFF&fontSize=30&rotate=13&animation=twinkling)
